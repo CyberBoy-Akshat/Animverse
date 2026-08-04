@@ -1,1 +1,5 @@
-# Animverse
+node_modules/
+.next/
+out/
+.env
+.env.local

@@ -1,0 +1,25 @@
+{
+  "name": "anime-world-live",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.20",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "cheerio": "1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "20",
+    "@types/react": "18",
+    "@types/react-dom": "18",
+    "typescript": "5",
+    "tailwindcss": "3.4.17",
+    "postcss": "8.5.3",
+    "autoprefixer": "10.4.21"
+  }
+}
